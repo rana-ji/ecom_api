@@ -1,5 +1,5 @@
-Ecommerce Inventory Management API
-    This is a beginner level Node.js and MongoDB project that provides APIs for an ecommerce platform admin to manage product inventory.
+Ecommerce Inventory Management API:-
+    This is a Node.js and MongoDB project that provides APIs for an ecommerce platform admin to manage product inventory.
 
 Tech Stack:-
     Node.js

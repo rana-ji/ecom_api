@@ -3,7 +3,7 @@ const express = require("express");
 const app = express();
 
 //defining the port
-const PORT = 5001;
+const PORT = 3000;
 
 //connecting with database
 const db = require("./config/mongoose");

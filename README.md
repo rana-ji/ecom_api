@@ -25,19 +25,19 @@ API Endpoints:-
 
         Method: POST
 
-        URL: /products/create
+        URL: /product/create
 
     Lists all the products in the inventory.
 
         Method: GET
 
-        URL: /products
+        URL: /product
 
     Deletes a product from the inventory.
 
         Method: DELETE
 
-        URL: /products/:id
+        URL: /product/:id
 
         URL Parameters:
         id (required): The ID of the product to be deleted
@@ -46,7 +46,7 @@ API Endpoints:-
 
         Method: POST
 
-        URL: /products/:id/update_quantity/?qty=10
+        URL: /product/:id/update_quantity/?qty=10
 
         URL Parameters:
         id (required): The ID of the product to be updated
